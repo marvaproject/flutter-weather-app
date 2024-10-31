@@ -1,3 +1,3 @@
 # Weather App
 
-Weather App by FLutter
+Weather App made by Flutter
